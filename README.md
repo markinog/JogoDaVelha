@@ -7,6 +7,10 @@ Jogo da Velha clássico.
 - Botão "Resetar" para reiniciar o jogo
 - Efeitos de vitória e empate
 
+##Teste o jogo!
+[Baixar o Jogo da Velha](./path/to/JogoDaVelhaWinForms.exe)
+
+
 ## Imagens do jogo 🎮
 ### Mensagem de Empate
 ![Mensagem de Empate](imagens/MensagemDeEmpate.png)
