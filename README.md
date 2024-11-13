@@ -8,7 +8,7 @@ Jogo da Velha clássico.
 - Efeitos de vitória e empate
 
 # Teste o jogo!
-[Baixar o Jogo da Velha](./Jogodavelha.zip)
+[Baixar o Jogo da Velha](./Jogo_da_velha.zip)
 
 
 ## Imagens do jogo 🎮
