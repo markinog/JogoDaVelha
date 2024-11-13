@@ -1,0 +1,16 @@
+C:\Users\leite\OneDrive\Documentos\analise e desenvolvimento de sistemas\TrabalhoJogoDaVelha\TrabalhoSegundoSemestre\JogoDaVelhaWinForm\bin\Debug\net8.0-windows\JogoDaVelhaWinForm.exe
+C:\Users\leite\OneDrive\Documentos\analise e desenvolvimento de sistemas\TrabalhoJogoDaVelha\TrabalhoSegundoSemestre\JogoDaVelhaWinForm\bin\Debug\net8.0-windows\JogoDaVelhaWinForm.deps.json
+C:\Users\leite\OneDrive\Documentos\analise e desenvolvimento de sistemas\TrabalhoJogoDaVelha\TrabalhoSegundoSemestre\JogoDaVelhaWinForm\bin\Debug\net8.0-windows\JogoDaVelhaWinForm.runtimeconfig.json
+C:\Users\leite\OneDrive\Documentos\analise e desenvolvimento de sistemas\TrabalhoJogoDaVelha\TrabalhoSegundoSemestre\JogoDaVelhaWinForm\bin\Debug\net8.0-windows\JogoDaVelhaWinForm.dll
+C:\Users\leite\OneDrive\Documentos\analise e desenvolvimento de sistemas\TrabalhoJogoDaVelha\TrabalhoSegundoSemestre\JogoDaVelhaWinForm\bin\Debug\net8.0-windows\JogoDaVelhaWinForm.pdb
+C:\Users\leite\OneDrive\Documentos\analise e desenvolvimento de sistemas\TrabalhoJogoDaVelha\TrabalhoSegundoSemestre\JogoDaVelhaWinForm\obj\Debug\net8.0-windows\JogoDaVelhaWinForm.FrmMain.resources
+C:\Users\leite\OneDrive\Documentos\analise e desenvolvimento de sistemas\TrabalhoJogoDaVelha\TrabalhoSegundoSemestre\JogoDaVelhaWinForm\obj\Debug\net8.0-windows\JogoDaVelhaWinForm.csproj.GenerateResource.cache
+C:\Users\leite\OneDrive\Documentos\analise e desenvolvimento de sistemas\TrabalhoJogoDaVelha\TrabalhoSegundoSemestre\JogoDaVelhaWinForm\obj\Debug\net8.0-windows\JogoDaVelhaWinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leite\OneDrive\Documentos\analise e desenvolvimento de sistemas\TrabalhoJogoDaVelha\TrabalhoSegundoSemestre\JogoDaVelhaWinForm\obj\Debug\net8.0-windows\JogoDaVelhaWinForm.AssemblyInfoInputs.cache
+C:\Users\leite\OneDrive\Documentos\analise e desenvolvimento de sistemas\TrabalhoJogoDaVelha\TrabalhoSegundoSemestre\JogoDaVelhaWinForm\obj\Debug\net8.0-windows\JogoDaVelhaWinForm.AssemblyInfo.cs
+C:\Users\leite\OneDrive\Documentos\analise e desenvolvimento de sistemas\TrabalhoJogoDaVelha\TrabalhoSegundoSemestre\JogoDaVelhaWinForm\obj\Debug\net8.0-windows\JogoDaVelhaWinForm.csproj.CoreCompileInputs.cache
+C:\Users\leite\OneDrive\Documentos\analise e desenvolvimento de sistemas\TrabalhoJogoDaVelha\TrabalhoSegundoSemestre\JogoDaVelhaWinForm\obj\Debug\net8.0-windows\JogoDaVelhaWinForm.dll
+C:\Users\leite\OneDrive\Documentos\analise e desenvolvimento de sistemas\TrabalhoJogoDaVelha\TrabalhoSegundoSemestre\JogoDaVelhaWinForm\obj\Debug\net8.0-windows\refint\JogoDaVelhaWinForm.dll
+C:\Users\leite\OneDrive\Documentos\analise e desenvolvimento de sistemas\TrabalhoJogoDaVelha\TrabalhoSegundoSemestre\JogoDaVelhaWinForm\obj\Debug\net8.0-windows\JogoDaVelhaWinForm.pdb
+C:\Users\leite\OneDrive\Documentos\analise e desenvolvimento de sistemas\TrabalhoJogoDaVelha\TrabalhoSegundoSemestre\JogoDaVelhaWinForm\obj\Debug\net8.0-windows\JogoDaVelhaWinForm.genruntimeconfig.cache
+C:\Users\leite\OneDrive\Documentos\analise e desenvolvimento de sistemas\TrabalhoJogoDaVelha\TrabalhoSegundoSemestre\JogoDaVelhaWinForm\obj\Debug\net8.0-windows\ref\JogoDaVelhaWinForm.dll
