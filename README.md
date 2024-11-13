@@ -1,5 +1,5 @@
 # JogoDaVelha 
-Jogo da Velha clássico.
+Clássico jogo da velha.
 
 ## Funcionalidades
 - Apresenta mensagem pop-up informando o vencedor ou empate
